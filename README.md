@@ -1,4 +1,6 @@
 ## Hi there 👋
+## i like purple and i'm learning to bake
+## comp sci newb
 
 <!--
 **tikumbu/tikumbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
